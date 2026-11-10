@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+<h1 align="center">Hi, I'm OCHOLA RONNIE 👋</h1>
 <p align="center">Full-stack developer in the making | React + Spring Boot | Kenya 🇰🇪</p>
 
 ---
 
 ## 🌱 About me
-- 🔭 Building: [your current project, e.g. a full-stack app with React and Spring Boot]
-- 📚 Learning: Python and deeper backend development
+- 🔭 Building: APP, a full-stack app with React and Spring Boot
+- 📚 Learning: Python, deeper backend development and machine learning + AI 
 - 💬 Ask me about: React, Vite, Spring Boot, PHP
-- 🎯 Goal: [e.g. land a junior full-stack developer role]
+- 🎯 Goal:  land a junior full-stack developer role
 
 ## 🛠 Tech I use
 
@@ -32,6 +32,6 @@
 </p>
 
 ## 📫 Let's connect
-[LinkedIn](https://linkedin.com/in/yourname) · [Email](mailto:your@email.com)
+· Email mailto:ocholaronnie05@gmail.com)
 
 <p align="center"><i>"Always building, always learning."</i></p>
